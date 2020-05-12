@@ -2,7 +2,7 @@
 Thesis
 Identifying Hidden Manifolds in Census dataset
 
-Dataset used: Dublin Census data obtained from cso.ie/en/databases/
+Dataset used: Dublin Census data obtained from https://www.cso.ie/en/databases/
 
 Goal of the project:
 
